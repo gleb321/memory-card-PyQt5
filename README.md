@@ -1,0 +1,1 @@
+# memory-card-PyQt5
